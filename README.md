@@ -10,4 +10,4 @@ Features include:
 <ul>Dealer (Computer automatically sticks at 16 or over).</ul>
 
 <center><img src="http://i.imgur.com/HEOTHv3.png" /img></centre>
-<img src="http://i.imgur.com/JtmCSJ9.png /img>
+<img src="http://i.imgur.com/JtmCSJ9.png" /img>
