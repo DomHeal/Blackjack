@@ -53,7 +53,7 @@ void PlayWindow::on_twistButton_clicked()
             ui->computerStatusLabel->setText("Bust!");
         }
         else{
-            ui->computerStatusLabel->setText("Bust!");
+            ui->computerStatusLabel->setText("Stick!");
         }
 
         // if same score or both bust
