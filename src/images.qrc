@@ -2,5 +2,8 @@
     <qresource prefix="/images">
         <file>images/bg.jpg</file>
         <file>images/blackjack_table.png</file>
+        <file>images/draw.png</file>
+        <file>images/lose.png</file>
+        <file>images/win.png</file>
     </qresource>
 </RCC>

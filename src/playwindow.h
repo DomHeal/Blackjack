@@ -1,6 +1,6 @@
 #ifndef PLAYWINDOW_H
 #define PLAYWINDOW_H
-
+#include <QDebug>
 #include <QMainWindow>
 
 namespace Ui {
@@ -15,6 +15,9 @@ public:
     explicit PlayWindow(QWidget *parent = 0);
     ~PlayWindow();
 
+
+public slots:
+
 private slots:
     void on_twistButton_clicked();
 
@@ -24,8 +27,13 @@ private slots:
 
     void on_actionQuit_triggered();
 
+
 private:
     Ui::PlayWindow *ui;
+
+protected:
 };
+
+
 
 #endif // PLAYWINDOW_H
