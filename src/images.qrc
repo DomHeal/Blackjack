@@ -5,5 +5,58 @@
         <file>images/draw.png</file>
         <file>images/lose.png</file>
         <file>images/win.png</file>
+        <file>images/cards/2_of_clubs.png</file>
+        <file>images/cards/2_of_diamonds.png</file>
+        <file>images/cards/2_of_hearts.png</file>
+        <file>images/cards/2_of_spades.png</file>
+        <file>images/cards/3_of_clubs.png</file>
+        <file>images/cards/3_of_diamonds.png</file>
+        <file>images/cards/3_of_hearts.png</file>
+        <file>images/cards/3_of_spades.png</file>
+        <file>images/cards/4_of_clubs.png</file>
+        <file>images/cards/4_of_diamonds.png</file>
+        <file>images/cards/4_of_hearts.png</file>
+        <file>images/cards/4_of_spades.png</file>
+        <file>images/cards/5_of_clubs.png</file>
+        <file>images/cards/5_of_diamonds.png</file>
+        <file>images/cards/5_of_hearts.png</file>
+        <file>images/cards/5_of_spades.png</file>
+        <file>images/cards/6_of_clubs.png</file>
+        <file>images/cards/6_of_diamonds.png</file>
+        <file>images/cards/6_of_hearts.png</file>
+        <file>images/cards/6_of_spades.png</file>
+        <file>images/cards/7_of_clubs.png</file>
+        <file>images/cards/7_of_diamonds.png</file>
+        <file>images/cards/7_of_hearts.png</file>
+        <file>images/cards/7_of_spades.png</file>
+        <file>images/cards/8_of_clubs.png</file>
+        <file>images/cards/8_of_diamonds.png</file>
+        <file>images/cards/8_of_hearts.png</file>
+        <file>images/cards/8_of_spades.png</file>
+        <file>images/cards/9_of_clubs.png</file>
+        <file>images/cards/9_of_diamonds.png</file>
+        <file>images/cards/9_of_hearts.png</file>
+        <file>images/cards/9_of_spades.png</file>
+        <file>images/cards/10_of_clubs.png</file>
+        <file>images/cards/10_of_diamonds.png</file>
+        <file>images/cards/10_of_hearts.png</file>
+        <file>images/cards/10_of_spades.png</file>
+        <file>images/cards/ace_of_clubs.png</file>
+        <file>images/cards/ace_of_diamonds.png</file>
+        <file>images/cards/ace_of_hearts.png</file>
+        <file>images/cards/ace_of_spades.png</file>
+        <file>images/cards/ace_of_spades2.png</file>
+        <file>images/cards/jack_of_clubs2.png</file>
+        <file>images/cards/jack_of_diamonds2.png</file>
+        <file>images/cards/jack_of_hearts2.png</file>
+        <file>images/cards/jack_of_spades2.png</file>
+        <file>images/cards/king_of_clubs2.png</file>
+        <file>images/cards/king_of_diamonds2.png</file>
+        <file>images/cards/king_of_hearts2.png</file>
+        <file>images/cards/king_of_spades2.png</file>
+        <file>images/cards/queen_of_clubs2.png</file>
+        <file>images/cards/queen_of_diamonds2.png</file>
+        <file>images/cards/queen_of_hearts2.png</file>
+        <file>images/cards/queen_of_spades2.png</file>
     </qresource>
 </RCC>

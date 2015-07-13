@@ -14,10 +14,14 @@ class PlayWindow : public QMainWindow
 public:
     explicit PlayWindow(QWidget *parent = 0);
     ~PlayWindow();
+    QList<QPixmap> cardHolder;
+    int deckValues[52];
 
 
 public slots:
+    void loadList();
 
+    void computerTurn();
 private slots:
     void on_twistButton_clicked();
 
