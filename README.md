@@ -11,7 +11,7 @@ Features include:
 
 <p align="center">
 <img src="http://i.imgur.com/HEOTHv3.png" /img>
-<img src="http://i.imgur.com/mTGSCao.png" /img>
+<img src="http://i.imgur.com/x4SpaoD.png" /img>
 <img src="http://i.imgur.com/qxG8mx1.png" /img>
 <img src="http://i.imgur.com/gVGGycg.png" /img>
 </p>
