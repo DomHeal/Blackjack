@@ -8,6 +8,7 @@ Features include:
 <ul>Current and Total hand values</ul>
 <ul>Current Status (Bust or Stick)</ul>
 <ul>Dealer (Computer automatically sticks at 16 or over).</ul>
+<ul>Full 52 card deck </ul>
 
 <p align="center">
 <img src="http://i.imgur.com/HEOTHv3.png" /img>
